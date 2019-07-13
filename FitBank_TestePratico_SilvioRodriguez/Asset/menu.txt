@@ -1,0 +1,8 @@
+Hamburguer|15
+Batata Frita|10
+Suco|5
+Sorvete|8
+Pastel|5
+Salgado|3
+Beirute|15
+Vitamina|8
